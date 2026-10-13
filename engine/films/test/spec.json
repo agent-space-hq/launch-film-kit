@@ -1,0 +1,5 @@
+{ "spec": { "shots": [
+  { "effect": "logo.particle-assemble", "dur": 3.4 },
+  { "effect": "type.baseline-rise", "dur": 3.2, "copy": { "headline": "Every frame written in code." } },
+  { "effect": "data.counter-roll", "dur": 4.0 }
+] } }
