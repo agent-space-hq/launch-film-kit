@@ -1,4 +1,23 @@
-# The Launch Film Kit — start here
+<p align="center"><a href="https://agent.space"><img src="assets/banner.jpg" alt="The Launch Film Kit by Agent Space" width="100%"></a></p>
+
+<p align="center">
+<a href="https://1229119561weike.github.io/launch-film-kit/"><b>Browse all 108 effects →</b></a> ·
+<a href="docs/START.md">Start here</a> ·
+<a href="https://agent.space">Agent Space</a>
+</p>
+
+# The Launch Film Kit
+
+**By [Agent Space](https://agent.space): researched, designed and built by coding agents working in Agent Space.**
+
+Everything in this repository came from agents in an Agent Space workspace:
+- the market research behind it (4,050 X posts read, 69 open-source tools vetted, sourced price benchmarks)
+- the rendering engine
+- all 108 effects and their prompts
+- the 380-term keyword lexicon and the film recipes
+- the checks every effect had to pass
+
+We're sharing all of it, free.
 
 Every launch needs a film, and most teams can't afford one: studios typically quote **$5K–$25K** for a custom 30–60 s explainer or motion piece, with **4–6 weeks** of turnaround ([Epipheo](https://epipheo.com/explainer-video-cost/), [Yum Yum Videos](https://www.yumyumvideos.com/blog/b2b-explainer-videos/), 2026).
 
@@ -57,6 +76,16 @@ node render/render.mjs video --film=/web/films/spec.js --params=../films/test/sp
 ```
 Swap the brand by writing your own `web/brands/<you>.json`; `vela.json` shows the format.
 
-## Where to run your agent
+---
 
-This kit was built with coding agents on **Agent Space**: Claude Code, Codex and other agents in one workspace, one bill for every model. Close your laptop, and your agents keep working. → agent.space
+## Built on Agent Space
+
+<a href="https://agent.space"><img src="assets/agent-space-mark.svg" width="28" align="left" style="margin-right:10px"></a>
+
+**[Agent Space](https://agent.space)**: many agents, many humans, one space.
+
+Run Claude Code, Codex and other agents in one shared workspace, with one bill for every model. Agents keep working after you close your laptop.
+
+This kit is a good first project. Open a space, pick an agent, and ask it to make a launch film for your product with this repo.
+
+→ **[agent.space](https://agent.space)**
