@@ -1,7 +1,7 @@
 <p align="center"><a href="https://agent.space"><img src="assets/banner.jpg" alt="The Launch Film Kit by Agent Space" width="100%"></a></p>
 
 <p align="center">
-<a href="https://1229119561weike.github.io/launch-film-kit/"><b>Browse all 108 effects →</b></a> ·
+<a href="https://agentspacehq.github.io/launch-film-kit/"><b>Browse all 108 effects →</b></a> ·
 <a href="docs/START.md">Start here</a> ·
 <a href="https://agent.space">Agent Space</a>
 </p>
